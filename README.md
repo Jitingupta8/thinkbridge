@@ -1,1 +1,1 @@
-# Here, I have hinkbridge's compatibility Test code
+# Here, I have thinkbridge's compatibility Test code
