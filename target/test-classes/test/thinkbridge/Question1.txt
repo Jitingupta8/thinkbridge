@@ -1,0 +1,18 @@
+FrontEnd
+
+1. Validate the user is gettig an option to add items in inventory.
+2. Validate the user is able to enter item name, description and price.
+3. Validate user can upload picture of  the item.
+4. Validate the user is able to see the list of items with name and price of the each item at the bottom, which are added to the inventory.
+5. Validate the user is able to see the thumbnail in the inventory if user uploaded.
+6. Validate the user got an button to remove the item from inventory.
+7. Validate the user got all the information of the item, When user click on any project in the inventory. 
+
+
+BackEnd
+
+1. Validate the newly added page.
+2. Validate the user is able to add items in the inventory successfully.
+3. Validate the user is able to see all details when user click on any item in the inventory.
+4. Validate the remove button functionality.
+5. Validate the functionality of other pages should not break due to this new page.
