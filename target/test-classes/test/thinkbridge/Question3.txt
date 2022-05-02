@@ -1,0 +1,6 @@
+1. View Photo and View signature is not working,After Uploading the photo.
+2. Full Form is not coming in tabular form, it needs to be enhanced.
+3. At bottom there is empty page, that we can enhance.
+4. User is not getting otp on mobile number.
+5. Reset all is not reseting all thr fields.
+6. In the upload required Document's section, they are not validating the file type.
